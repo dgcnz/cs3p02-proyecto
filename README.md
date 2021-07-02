@@ -2,9 +2,12 @@
 
 ## Descripción
 
+Una criptomoneda basica para probar los conceptos aprendidos de seguridad del curso Seguridad en Computacion. Cada instancia ejecutable es un nodo.
+
 ### Funcionalidad
 
-_toficoin en la nube_
+- Hacer Proof of Work para confirmar transacciones.
+- Hacer broadcasting de transaccion/bloque a otros nodos.
 
 ### Arquitectura
 
@@ -19,11 +22,11 @@ _toficoin en la nube_
 
 ### ¿Por qué escogió esa aplicación?
 
-Interesante
+En el curso de Seguridad en Computacion estamos desarrollando un prototipo de criptomoneda y vimos que era una buena oportunidad para extender ese proyecto.
 
 ### ¿Qué características de la computación en nube pueden ser integradas en la aplicación?
 
-- No sé
+- Contenerizacion y orquestramiento de contenedores.
 
 ## Resumen de los pasos necesarios para su ejecución
 
